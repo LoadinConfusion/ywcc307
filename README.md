@@ -1,1 +1,1 @@
-# ywcc307hello-world
+# YWCC 307 Hello-World Assignment 1
